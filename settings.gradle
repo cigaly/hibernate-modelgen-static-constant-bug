@@ -1,2 +1,1 @@
-rootProject.name = 'HHH-17957-modelgen_module-info'
-
+rootProject.name = 'HHH-18106-hibernate-modelgen-static-constant-bug'
